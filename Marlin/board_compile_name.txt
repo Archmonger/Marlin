@@ -1,0 +1,3 @@
+Use  STM32F103RC_btt_maple
+
+RC and MAPLE

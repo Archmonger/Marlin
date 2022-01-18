@@ -1,3 +1,5 @@
+These are my personalized customizations for my customized Ender 5 Pro.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
