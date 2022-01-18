@@ -1,4 +1,4 @@
-These are my personalized customizations for my customized Ender 5 Pro.
+These are my personalizations for my heavily modified Ender 5 Pro.
 
 # Marlin 3D Printer Firmware
 
